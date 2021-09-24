@@ -1,0 +1,1 @@
+Interaction project with Facebook GraphAPI. Publication a post on a facebook page wall.
